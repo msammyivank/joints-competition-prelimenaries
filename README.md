@@ -5,7 +5,7 @@
 The challenge was to predict if a certain customer would like to prolong his/her insurance period. There were various features in the dataset, including Gender, Age, Area Code, Vehicle Age, and more. In this task, we were required to use machine learning of some sort. The dataset was heavily imbalanced and had a lot of missing values, requiring participants to preprocess and create a pipeline that can account for these phenomenons.
 
 ## The Results
-I myself joined the competition with 3 other people with links to their LinkedIn profiles written at the end of this Readme. We were given a full one week to work on the dataset. Not only creating a model to predict, but we were
+With a team of three whose linkedins can be found below, I successfully created a report and predictions to surpass many teams and acquired a high placement in the leaderboard. We utilized 
 
 Link to the [Kaggle Competition].
 
