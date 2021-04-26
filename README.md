@@ -5,7 +5,7 @@
 The challenge was to predict if a certain customer would like to prolong his/her insurance period. There were various features in the dataset, including Gender, Age, Area Code, Vehicle Age, and more. In this task, we were required to use machine learning of some sort. The dataset was heavily imbalanced and had a lot of missing values, requiring participants to preprocess and create a pipeline that can account for these phenomenons.
 
 ## The Results
-With a team of three whose linkedins can be found below, I successfully created a report and predictions to surpass many teams and acquired a high placement in the leaderboard. We utilized 
+With a team of three whose linkedins can be found below, I successfully created a report and predictions to surpass many teams and acquired a high placement in the leaderboard. We utilized smote to handle imbalance, used CatBoost, XGBoost, LGBM, and RandomForests and ensembled it using a Voting Classifier in order to acquire high predictions on the dataset.
 
 Link to the [Kaggle Competition].
 
